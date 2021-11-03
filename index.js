@@ -1,4 +1,3 @@
-  ga('send', 'pageview');
 /**
  * use for update check for future
  */
@@ -26,4 +25,3 @@ window.__ONLINE__ = {};
   setInterval(() => {
     ga('send', 'pageview');
   }, 1000 * 60 * 60);
-  
