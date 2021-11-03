@@ -1,0 +1,26 @@
+{
+  "name": "iproxy-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcodebuild/iproxy-online.git"
+  },
+  "keywords": [],
+  "author": "shejinxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcodebuild/iproxy-online/issues"
+  },
+  "homepage": "https://github.com/xcodebuild/iproxy-online#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "universal-analytics": "^0.4.23"
+  }
+}
